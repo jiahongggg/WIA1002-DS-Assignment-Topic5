@@ -8,12 +8,12 @@ This is a stock trading website built using Java Object-Oriented Programming (OO
 
 Here are the main classes used in the system:
 
-**Stock**: Represents a single stock in the trading system.
-**Portfolio**: Represents a user's portfolio, which contains a list of the stocks they own and the number of shares they own of each stock.
-**Order**: Represents an order to buy or sell a stock.
-**TradingEngine**: Represents the trading engine that executes orders and updates stock prices.
-**User**: Represents a user of the trading system.
-**TradingApp**: Represents the main application that users interact with.
+**Stock**: Represents a single stock in the trading system.<br>
+**Portfolio**: Represents a user's portfolio, which contains a list of the stocks they own and the number of shares they own of each stock. <br>
+**Order**: Represents an order to buy or sell a stock.<br>
+**TradingEngine**: Represents the trading engine that executes orders and updates stock prices.<br>
+**User**: Represents a user of the trading system.<br>
+**TradingApp**: Represents the main application that users interact with.<br>
 
 
 ### Usage
