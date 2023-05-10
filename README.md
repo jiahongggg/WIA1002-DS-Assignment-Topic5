@@ -26,4 +26,4 @@ To update the stock prices, call the updatePrices method on the TradingEngine ob
 
 ### Disclaimer
 
-This is just an example implementation of a stock trading website using Java OOP. It is not intended to be used in production or for actual trading purposes. Always consult a professional financial advisor before making any investment decisions.
+This is just an example implementation of a stock trading website using Java OOP. 
